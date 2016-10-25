@@ -1,5 +1,5 @@
 {
-    "name": "amphp/beanstalk",
+    "name": "markkimsal/beanstalk",
     "description": "Async beanstalk driver.",
     "require": {
         "amphp/amp": "^1.1",
