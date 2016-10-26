@@ -255,4 +255,8 @@ class BeanstalkClient {
             }
         });
     }
+
+    public function close() {
+        $this->connection->close();
+    }
 }
