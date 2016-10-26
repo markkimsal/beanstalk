@@ -12,6 +12,12 @@
             "email": "me@kelunik.com"
         }
     ],
+	"contributors": [
+		{
+			"name": "Mark Kimsal",
+			"email": "metrofindings@gmail.com"
+		}
+	],
     "autoload": {
         "psr-4": {
             "Amp\\Beanstalk\\": "src"
